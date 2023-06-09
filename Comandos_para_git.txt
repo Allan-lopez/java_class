@@ -1,0 +1,8 @@
+git add "Nos ayuda a mover al staging
+git commit: "Nos ayuda a mover arc al local repo.
+git rm -- cached<file>: "Nos ayuda a regresar.
+
+Nuevos comnandos
+git add . "Esto nos ayuda a nover todos los archivos al staging sin tener que hacerlo uno a uno.
+git status "Este comando nos ayuda a saber el estatus de los archivos"
+
